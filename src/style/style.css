@@ -6,11 +6,12 @@ ul {
 img {
     width: 50%;
     filter: drop-shadow(0px 0px 3px #dbe213);
+    position: relative;
 }
 
 body {
-    margin-top: 12;
-    margin-right: 12;
+    margin-top: 12px;
+    margin-right: 12px;
     background-color: white;
 }
 
@@ -20,7 +21,7 @@ li {
     padding-right: 10px; 
     border-right: 2px solid black;
     border-left: 2px solid black;
-    padding: 1;
+    padding: 1px;
     padding-top: 10;
     cursor: pointer;
 }
