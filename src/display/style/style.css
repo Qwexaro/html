@@ -2,3 +2,8 @@
     display: inline-block;
     width: 30%;
 }
+
+.tree-block-text, .next-block {
+    font-size: 25px;    
+    color: green;
+}
