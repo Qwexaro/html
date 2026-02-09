@@ -1,0 +1,35 @@
+ul {
+    /* width: 20%; */
+    display: inline-block;
+}
+
+img {
+    width: 50%;
+    filter: drop-shadow(0px 0px 3px #dbe213);
+}
+
+body {
+    margin-top: 12;
+    margin-right: 12;
+    background-color: white;
+}
+
+li {
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    padding: 1;
+    padding-top: 10;
+    cursor: pointer;
+}
+
+.main-section {
+    text-shadow: 0 0 11px #dbe213, 0 0 20px #dbe213, 0 0 30px #dbe213, 0 0 55px #dbe213, 0 0 80px #dbe213;
+    text-align: center;
+}
+
+hr {
+    color: #dbe213;
+}
